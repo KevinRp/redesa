@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "https://examplesite.com"
+baseURL = "https://kevinrp.github.io/redesa/"
 title = "Meghna"
 theme = "meghna-hugo"
 publishDir = "docs"
